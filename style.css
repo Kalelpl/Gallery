@@ -1,11 +1,27 @@
 body {
     margin-top: 70px;
 }
+.jumbotron {
+    color:#3b5577;
+}
 
 .btn {
     font-size: 10px;
 }
 
-.nav-link {
-    color:black;
+.navbar-inverse {
+background-color: #3b5577;
 }
+
+.nav-link {
+    color:white !important;
+}
+
+.nav-link {
+    color:white;
+}
+
+.navbar-inverse .navbar-brand {
+color:white;
+}
+
